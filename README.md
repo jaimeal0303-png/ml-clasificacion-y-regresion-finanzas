@@ -22,3 +22,7 @@ Predicción de la deserción de clientes de un banco mediante Regresión Logíst
 Tecnologías:
 
 Python, NumPy, Pandas, scikit-learn, Matplotlib
+
+https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
+
+https://www.kaggle.com/datasets/alehcleal/ita-unibanco-stock-data-2002-2026
