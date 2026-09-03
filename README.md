@@ -19,5 +19,6 @@ Predicción de la deserción de clientes de un banco mediante Regresión Logíst
 - Entrenamiento con `class_weight='balanced'`, priorizando el Recall sobre la Precision
   para minimizar la pérdida de clientes en riesgo
 
-Tecnologías
+Tecnologías:
+
 Python, NumPy, Pandas, scikit-learn, Matplotlib
